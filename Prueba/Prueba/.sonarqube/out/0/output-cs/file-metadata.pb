@@ -1,0 +1,14 @@
+€
+uC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\Prueba.MvcApplicationPartsAssemblyInfo.csutf-8m
+bC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\Prueba.AssemblyInfo.csutf-8…
+zC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.csutf-8o
+dC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\obj\Debug\net8.0\Prueba.GlobalUsings.g.csutf-8N
+EC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Program.csutf-8m
+bC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Migrations\AppDBContextModelSnapshot.csutf-8y
+nC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Migrations\20250120225657_InitalCreate3.Designer.csutf-8n
+eC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Migrations\20250120225657_InitalCreate3.csutf-8n
+eC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Controllers\ServicioAdicionalController.csutf-8d
+[C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Controllers\ReservaController.csutf-8g
+^C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Controllers\HabitacionController.csutf-8d
+[C:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Controllers\ClienteController.csutf-8S
+JC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\AppDBContext.csutf-8

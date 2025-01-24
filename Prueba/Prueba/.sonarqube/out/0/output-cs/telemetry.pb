@@ -1,0 +1,1 @@
+^RHC:\Users\danie\source\repos\prueba2P-Pruebas\Prueba\Prueba\Prueba.csproj¢net8.0òCSharp12
